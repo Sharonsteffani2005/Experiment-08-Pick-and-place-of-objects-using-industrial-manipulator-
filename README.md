@@ -99,12 +99,12 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+https://drive.google.com/file/d/1-4rikxowZwuBylFvCuJfvxxr3zVu8_TX/view?usp=drive_link
+### PICK OPERATON :
+![image](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/52e5e9ea-54aa-4f44-9037-b30ac28c3fe3)
 
-
-
-
-
-
+### PLACE OPERATON :
+![image](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/4f62b747-df13-45ae-adae-67fcb436de65)
 
 ### Results: 
 
