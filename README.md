@@ -81,34 +81,17 @@ and click on the connect icon
 
 3. click on the 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/Sharonsteffani2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/14729c22-cdc6-45d0-9974-3c9123cb9447)
+![image](https://github.com/Sharonsteffani2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/c6fc3863-b06f-4fe3-a93b-76f097a19491)
+![image](https://github.com/Sharonsteffani2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/be1dcb9c-6411-4b81-a7f5-71ed2f9df85a)
+![image](https://github.com/Sharonsteffani2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/857ebcd2-aabd-47c9-9b1a-3fa89b8320fd)
 ### output video and screen shots of pick and place 
-
-
-
-
-
-
+![image](https://github.com/Sharonsteffani2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/a97f197d-16b2-4abc-bd79-1badec586f2c)
+![image](https://github.com/Sharonsteffani2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/75cf3e0a-cedd-4bdc-aeb9-2aece9e5c324)
 
 ### Results: 
 
-
+Thus the pick and place operation has been successfully executed by industrial robot.
 
 
 
