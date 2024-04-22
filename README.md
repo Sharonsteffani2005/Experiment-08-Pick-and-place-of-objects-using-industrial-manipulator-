@@ -86,6 +86,7 @@ and click on the connect icon
 ![image](https://github.com/Sharonsteffani2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/be1dcb9c-6411-4b81-a7f5-71ed2f9df85a)
 ![image](https://github.com/Sharonsteffani2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/857ebcd2-aabd-47c9-9b1a-3fa89b8320fd)
 ### output video and screen shots of pick and place 
+https://drive.google.com/file/d/1-4rikxowZwuBylFvCuJfvxxr3zVu8_TX/view?usp=drive_link
 ![image](https://github.com/Sharonsteffani2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/a97f197d-16b2-4abc-bd79-1badec586f2c)
 ![image](https://github.com/Sharonsteffani2005/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979934/75cf3e0a-cedd-4bdc-aeb9-2aece9e5c324)
 
